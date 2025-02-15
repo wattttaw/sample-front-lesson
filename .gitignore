@@ -1,8 +1,0 @@
-node_modules/
-*.code-workspace
-.vscode/
-dist/
-
-/test-results/
-/playwright-report/
-/playwright/.cache/
